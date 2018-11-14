@@ -1,0 +1,21 @@
+{
+  "name": "pagescraper",
+  "version": "1.0.0",
+  "description": "Challenger from IdeaBags https://ideabag2.firebaseapp.com/categories/5/ideas/2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "IdeaBags",
+    "Web",
+    "Scraper"
+  ],
+  "author": "Mr. Dibre <cesar.felp982@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
